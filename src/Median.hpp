@@ -3,6 +3,7 @@
 
 #include <algorithm>
 #include <ostream>
+#include <vector>
 
 template<class T>
 class Median {
